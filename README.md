@@ -39,5 +39,3 @@ The target column is:
 
 ```text
 diagnosis
-
-
