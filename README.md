@@ -35,8 +35,9 @@ The project uses the Breast Cancer Wisconsin Diagnostic dataset.
 
 The dataset contains numerical features computed from digitized images of fine needle aspirate samples of breast masses. Each sample is labeled as either malignant or benign.
 
-```markdown
 The target column is:
 
 ```text
 diagnosis
+
+
